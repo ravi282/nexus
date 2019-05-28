@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>deployment</id>
+        <id>venki</id>
         <name>release softx</name>
-        <url>http://52.90.66.225:8081/repository/mph/</url>
+        <url>http://54.227.230.218:8081/repository/brahma/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot softx</name>
-        <url>http://52.90.66.225:8081/repository/mphsnap/</url>
+        <url>http://54.227.230.218:8081/repository/lax/</url>
     </snapshotRepository>
 </distributionManagement>
 
